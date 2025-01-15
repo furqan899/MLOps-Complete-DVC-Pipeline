@@ -7,7 +7,7 @@ from nltk.corpus import stopwords
 import string
 import nltk
 nltk.download('stopwords')
-nltk.download('punkt')
+nltk.download('punkt_tab')
 
 # Ensure the "logs" directory exists
 log_dir = 'logs'

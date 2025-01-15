@@ -1,0 +1,6 @@
+PyYAML
+pandas
+scikit-learn
+nltk
+dvclive
+dvc-s3
